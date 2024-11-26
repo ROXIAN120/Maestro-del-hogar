@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Maestro del hogar</string>
+    <string name="title_activity_pantalla_principal">Pantalla_Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+//string para pantalla de registro de usuario
+    <string name="text_view_titulo">Bienvenido a Maestro del Hogar</string>
+    <string name="button_google">Continuar con Google</string>
+    //string del navigation
+    <string name="menu_cerrar_sesion">Cerrar sesión</string>
+    <string name="Guardar_datos">Guardar_datos</string>
+    //string del navigation
+    <string name="barra_de_busqueda">Buscar...</string>
+</resources>
